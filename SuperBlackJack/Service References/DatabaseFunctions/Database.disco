@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://localhost/blackjack/Database.asmx?wsdl" docRef="http://localhost/blackjack/Database.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://localhost/blackjack/Database.asmx" xmlns:q1="http://localhost/blackjack/" binding="q1:DatabaseSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://localhost/blackjack/Database.asmx" xmlns:q2="http://localhost/blackjack/" binding="q2:DatabaseSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

@@ -1,0 +1,7 @@
+The offset for the players cards is: 0.75
+
+the offset for the opponents cards is: 0.5
+
+Make an enum for the cards (0-52)
+
+SUIT ORDER: HEART (0-12),  DIAMONDS (13-25), CLUB (26-38), SPADES (39-51)
